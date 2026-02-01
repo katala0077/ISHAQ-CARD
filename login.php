@@ -9,7 +9,7 @@ session_start();
 // -------------------------------
 // CONFIGURATION
 // -------------------------------
- $databaseUrl = 'postgresql://card_chk_db_user:Zm2zF0tYtCDNBfaxh46MPPhC0wrB5j4R@dpg-d3l08pmr433s738hj84g-a/card_chk_db';
+ $databaseUrl = '‎mongodb+srv://badboy55274_db_user:OSugG5miORLbkcuK@cluster0.hflgr3a.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
  $telegramBotToken = '8418917575:AAEiulPtSPckdV0LDscRAX6xwMFiF7fMAFk';
  $telegramBotUsername = 'http://t.me/cardingbot3214_bot';
  $baseUrl = 'http://cxchk.site';
@@ -138,7 +138,7 @@ if (isset($_SESSION['user'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>𝑪𝑨𝑹𝑫 �? 𝑪𝑯𝑲 �? Portal</title>
+    <title>ð‘ªð‘¨ð‘¹ð‘« âœ? ð‘ªð‘¯ð‘² â€? Portal</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet">
@@ -768,7 +768,7 @@ if (isset($_SESSION['user'])) {
                     <img src="https://cxchk.site/assets/branding/cardxchk-mark.png" alt="Card X Chk">
                 </div>
             </div>
-            <div class="brand-text">𝑪𝑨𝑹𝑫 �? 𝑪𝑯𝑲</div>
+            <div class="brand-text">ð‘ªð‘¨ð‘¹ð‘« âœ? ð‘ªð‘¯ð‘²</div>
         </div>
 
         <div class="login-card">
