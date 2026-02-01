@@ -13,7 +13,7 @@ if (!isset($_SESSION['user']) || $_SESSION['user']['auth_provider'] !== 'telegra
 }
 
 // Hardcoded database connection information
- $databaseUrl = 'postgresql://card_chk_db_user:Zm2zF0tYtCDNBfaxh46MPPhC0wrB5j4R@dpg-d3l08pmr433s738hj84g-a.oregon-postgres.render.com/card_chk_db';
+ $databaseUrl = '‎mongodb+srv://badboy55274_db_user:OSugG5miORLbkcuK@cluster0.hflgr3a.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
 
 // Database connection
 try {
